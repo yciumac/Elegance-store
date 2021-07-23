@@ -1,0 +1,23 @@
+@import "./blocks/base.css";
+@import "./blocks/buttons.css";
+
+@import "./blocks/menu-icon.css";
+@import "./blocks/nav.css";
+@import "./blocks/header.css";
+@import "./blocks/section-header.css";
+@import "./blocks/product.css";
+@import "./blocks/info-section.css";
+
+@import "./blocks/post.css";
+@import "./blocks/subscribe-form.css";
+
+@import "./blocks/footer.css";
+
+
+/* 
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
+*/
+
+
+
